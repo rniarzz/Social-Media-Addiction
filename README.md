@@ -19,6 +19,8 @@ Visualisasi kontribusi setiap faktor terhadap skor kecanduan
 Prediksi skor kecanduan dan kategorisasi tingkat risikonya
 Tabel koefisien model untuk interpretasi faktor penentu
 
+```
+
 # 🧠 Dataset
 
 Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seperti:
@@ -46,6 +48,7 @@ Pandas & NumPy
 scikit-learn
 
 ```
+
 # 📦 Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
