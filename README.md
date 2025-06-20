@@ -35,6 +35,7 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
 
+```
  **Clone repositori ini**  
    Buka terminal atau CMD, lalu jalankan perintah berikut:
 
