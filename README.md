@@ -21,6 +21,8 @@ Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecand
 # 🧠 Dataset
 
 Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seperti:
+
+```
 - Usia (`Age`)
 - Jenis kelamin (`Gender`)
 - Jenjang pendidikan (`Academic_Level`)
@@ -31,6 +33,8 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 - Status hubungan (`Relationship_Status`)
 - Jumlah konflik karena media sosial (`Conflicts_Over_Social_Media`)
 - Skor kecanduan (`Addicted_Score`) – sebagai target prediksi
+
+```
 
 # 🛠️ Teknologi
 
