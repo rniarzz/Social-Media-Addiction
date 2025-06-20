@@ -13,6 +13,7 @@ Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecand
 
 # 🚀 Fitur
 
+```
 Form input interaktif untuk memasukkan data mahasiswa
 Visualisasi kontribusi setiap faktor terhadap skor kecanduan
 Prediksi skor kecanduan dan kategorisasi tingkat risikonya
@@ -38,11 +39,13 @@ Skor kecanduan (`Addicted_Score`) – sebagai target prediksi
 
 # 🛠️ Teknologi
 
+```
 Python
 Streamlit
 Pandas & NumPy
 scikit-learn
 
+```
 # 📦 Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
