@@ -35,5 +35,5 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 
 1. **Clone repo ini**:
    ```bash
-   git clone https://github.com/username/prediksi-kecanduan-sosial.git
+   git clone https://github.com/username/prediksi-kecanduan-sosial.git](https://github.com/rniarzz/Social-Media-Addiction.git
    cd prediksi-kecanduan-sosial
