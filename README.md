@@ -31,10 +31,13 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 - Pandas & NumPy
 - scikit-learn
 
-# 📦 Instalasi
+#📦 Instalasi
 
-1. **Clone repo ini**:
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
 
-   git clone : https://github.com/rniarzz/Social-Media-Addiction
-   
-   cd prediksi-kecanduan-sosial
+1. **Clone repositori ini**  
+   Buka terminal atau CMD, lalu jalankan perintah berikut:
+
+   ```bash
+   git clone https://github.com/rniarzz/Social-Media-Addiction.git
+   cd Social-Media-Addiction
