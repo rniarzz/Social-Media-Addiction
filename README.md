@@ -39,7 +39,7 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 - Pandas & NumPy
 - scikit-learn
 
-#📦 Instalasi
+# 📦 Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
 
