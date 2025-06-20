@@ -3,7 +3,7 @@
 
 Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecanduan media sosial mahasiswa berdasarkan berbagai faktor seperti usia, jenis kelamin, platform yang paling sering digunakan, dan kondisi kesehatan mental.
 
-## 🚀 Fitur
+### 🚀 Fitur
 
 - Form input interaktif untuk memasukkan data mahasiswa
 - Visualisasi kontribusi setiap faktor terhadap skor kecanduan
