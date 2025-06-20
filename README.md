@@ -23,16 +23,16 @@ Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecand
 Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seperti:
 
 ```
-## Usia (`Age`)
-- Jenis kelamin (`Gender`)
-- Jenjang pendidikan (`Academic_Level`)
-- Platform media sosial yang paling sering digunakan (`Most_Used_Platform`)
-- Rata-rata jam penggunaan media sosial per hari (`Avg_Daily_Usage_Hours`)
-- Rata-rata jam tidur per malam (`Sleep_Hours_Per_Night`)
-- Skor kesehatan mental (`Mental_Health_Score`)
-- Status hubungan (`Relationship_Status`)
-- Jumlah konflik karena media sosial (`Conflicts_Over_Social_Media`)
-- Skor kecanduan (`Addicted_Score`) – sebagai target prediksi
+Usia (`Age`)
+Jenis kelamin (`Gender`)
+Jenjang pendidikan (`Academic_Level`)
+Platform media sosial yang paling sering digunakan (`Most_Used_Platform`)
+Rata-rata jam penggunaan media sosial per hari (`Avg_Daily_Usage_Hours`)
+Rata-rata jam tidur per malam (`Sleep_Hours_Per_Night`)
+Skor kesehatan mental (`Mental_Health_Score`)
+Status hubungan (`Relationship_Status`)
+Jumlah konflik karena media sosial (`Conflicts_Over_Social_Media`)
+Skor kecanduan (`Addicted_Score`) – sebagai target prediksi
 
 ```
 
