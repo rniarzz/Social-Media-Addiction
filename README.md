@@ -38,7 +38,6 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini secara lokal:
  **Clone repositori ini**  
    Buka terminal atau CMD, lalu jalankan perintah berikut:
 
-   ```bash
    git clone:https://github.com/rniarzz/Social-Media-Addiction
 
    cd Social-Media-Addiction
