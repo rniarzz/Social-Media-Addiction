@@ -23,7 +23,7 @@ Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecand
 Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seperti:
 
 ```
-- Usia (`Age`)
+## Usia (`Age`)
 - Jenis kelamin (`Gender`)
 - Jenjang pendidikan (`Academic_Level`)
 - Platform media sosial yang paling sering digunakan (`Most_Used_Platform`)
