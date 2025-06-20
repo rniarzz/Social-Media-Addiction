@@ -3,14 +3,14 @@
 
 Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecanduan media sosial mahasiswa berdasarkan berbagai faktor seperti usia, jenis kelamin, platform yang paling sering digunakan, dan kondisi kesehatan mental.
 
-### 🚀 Fitur
+# 🚀 Fitur
 
 - Form input interaktif untuk memasukkan data mahasiswa
 - Visualisasi kontribusi setiap faktor terhadap skor kecanduan
 - Prediksi skor kecanduan dan kategorisasi tingkat risikonya
 - Tabel koefisien model untuk interpretasi faktor penentu
 
-## 🧠 Dataset
+# 🧠 Dataset
 
 Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seperti:
 - Usia (`Age`)
@@ -24,14 +24,14 @@ Dataset yang digunakan berasal dari file `student.csv`, dengan fitur-fitur seper
 - Jumlah konflik karena media sosial (`Conflicts_Over_Social_Media`)
 - Skor kecanduan (`Addicted_Score`) – sebagai target prediksi
 
-## 🛠️ Teknologi
+# 🛠️ Teknologi
 
 - Python
 - Streamlit
 - Pandas & NumPy
 - scikit-learn
 
-## 📦 Instalasi
+# 📦 Instalasi
 
 1. **Clone repo ini**:
    ```bash
