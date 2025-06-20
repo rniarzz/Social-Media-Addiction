@@ -1,3 +1,11 @@
+| No.| Nama Kelompok |       NIM                           |
+|----|------------|----------------------------------------|
+| 1. | Rini Ariza | 312210337               |
+| 2. | Vivie Zuliani Erikasari      |  312210475  |
+
+
+
+
 # 📱 Social Media Addiction: Prediksi Tingkat Kecanduan Media Sosial Mahasiswa
 
 
