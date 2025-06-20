@@ -1,5 +1,5 @@
 # 📱 Social Media Addiction: Prediksi Tingkat Kecanduan Media Sosial Mahasiswa
-```
+
 
 Aplikasi ini menggunakan model *Regresi Linear* untuk memprediksi tingkat kecanduan media sosial mahasiswa berdasarkan berbagai faktor seperti usia, jenis kelamin, platform yang paling sering digunakan, dan kondisi kesehatan mental.
 
